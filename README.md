@@ -65,26 +65,16 @@ $ python3 -m VCsMusicBot
 
 ### Features ✅
 
-- Thumbnail Support
-- Playlist Support
-- Current playback support
-- Showing track names when skipping
-- Zero downtime, Fully Stable
-- DEEZER,YOUTUBE & SAAVN PLAYBACK SUPPORTED
-- Settings panel
-- Control with buttons
-- Userbot auto join
-- Channel Music Play
-- Keyboard selection support for YouTube play
+- RONİ'NİN BOTU? @hzroni
 
 ### Commands for Group 👥
 #### For all in group
 
-- `/play <song name>` - play song you requested
-- `/play <reply to audio>` - play replied file
-- `/dplay <song name>` - play song you requested via deezer
-- `/splay <song name>` - play song you requested via jio saavn
-- `/ytplay <song name>`: Directly play song via YouTube Music
+- `/oynat <song name>` - play song you requested
+- `/oynat <reply to audio>` - play replied file
+- `/doynat <song name>` - play song you requested via deezer
+- `/soynat <song name>` - play song you requested via jio saavn
+- `/ytoynat <song name>`: Directly play song via YouTube Music
 - `/playlist` - Show now playing list
 - `/current` - Show now playing
 - `/song <song name>` - download songs you want quickly
@@ -139,5 +129,5 @@ If you donlt like to play in linked channel:
 
 ### Credits
 #### Special Credits
-- [Zaute-Km](https://github.com/Zaute-Km): LushaiMusic Developer
+- [Zaute-Km](https://github.com/Zaute-Km): RONİMusic Developer
 - [Rojserbest](http://github.com/rojserbest): Callsmusic Developer
